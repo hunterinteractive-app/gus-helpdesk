@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Operations Technology Support">
+  <rect width="128" height="128" rx="32" fill="#007f76"/>
+  <path d="M38 45h24m4 0h24M64 49v30M40 83h48" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+  <circle cx="36" cy="45" r="10" fill="#d9f1e9"/><circle cx="64" cy="45" r="10" fill="#d9f1e9"/><circle cx="92" cy="45" r="10" fill="#d9f1e9"/>
+  <circle cx="40" cy="85" r="10" fill="#d9f1e9"/><circle cx="88" cy="85" r="10" fill="#d9f1e9"/>
+</svg>
