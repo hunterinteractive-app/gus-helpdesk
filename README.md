@@ -12,6 +12,10 @@ The public Help Desk submits new ticket details to the connected Supabase projec
 
 In Supabase's **Table Editor**, open `affected_areas` or `technology_systems`. Add, rename, reorder with `display_order`, or set `active` to off to hide an option from the public form. Existing tickets keep the original wording they were submitted with.
 
+## Technician access
+
+The Technician switch opens a private sign-in screen. New accounts begin as Crew accounts with no ticket access. An administrator must promote the verified account to `technician` in the `profiles` table before it can view tickets, private photo links, or verified resolutions.
+
 ## Demo flow (3–5 minutes)
 
 1. Start on **Help Desk**. Explain that crew sees guided troubleshooting, not AI. Select the payment terminal scenario, add a short issue, and continue.
