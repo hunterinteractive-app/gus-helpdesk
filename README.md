@@ -6,7 +6,7 @@ A demo-safe, responsive Help Desk for restaurant technology. It contains the pub
 
 No package install is required. Open `index.html` in a browser, or serve this folder with any basic local web server.
 
-The public Help Desk submits new ticket details to the connected Supabase project. Browser storage still keeps the newest request available for the Technician demo screen. Photos are intentionally not uploaded yet: they need a protected upload service before a public form can accept them safely.
+The public Help Desk submits new ticket details to the connected Supabase project. Browser storage still keeps the newest request available for the Technician demo screen. Optional JPG, PNG, and WebP photos (up to 5 MB each) upload to a private Supabase bucket; they have no public link and are not readable from the Crew/Manager screen.
 
 ## Demo flow (3–5 minutes)
 
