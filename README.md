@@ -8,6 +8,10 @@ No package install is required. Open `index.html` in a browser, or serve this fo
 
 The public Help Desk submits new ticket details to the connected Supabase project. Browser storage still keeps the newest request available for the Technician demo screen. Optional JPG, PNG, and WebP photos (up to 5 MB each) upload to a private Supabase bucket; they have no public link and are not readable from the Crew/Manager screen.
 
+## Edit Help Desk choices
+
+In Supabase's **Table Editor**, open `affected_areas` or `technology_systems`. Add, rename, reorder with `display_order`, or set `active` to off to hide an option from the public form. Existing tickets keep the original wording they were submitted with.
+
 ## Demo flow (3–5 minutes)
 
 1. Start on **Help Desk**. Explain that crew sees guided troubleshooting, not AI. Select the payment terminal scenario, add a short issue, and continue.
